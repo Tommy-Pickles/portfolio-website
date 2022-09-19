@@ -11,19 +11,30 @@ import AboutMe from './components/pages/AboutMe';
 import WSPGallery from './components/pages/WSPGallery';
 
 
-
-
-
-
 function App() {
 
   const galleryImages = [
     {
-      img: "/images/img-9-1.jpg"
+      img: "/images/doge-biden-mintspixel.jpg"
     },
-    { 
-      img: "/images/img-9.jpg"
-    }
+    {
+      img: "/images/Meme_DOGE go brrr.jpg"
+    },
+    {
+      img: "/images/doge-pepe-farmer-pixels.jpg"
+    },
+    {
+      img: "/images/doge-unbothered-text.jpg"
+    },
+    {
+      img: "/images/man_holding_DOGE_sign.jpg"
+    },
+    {
+      img: "/images/Doge_drake.jpg"
+    },
+    {
+      img: "/images/doe-pokemon-memes-3.jpg"
+    },
   ]
  
 
@@ -38,15 +49,12 @@ function App() {
         <Route path= "/products" element={<Products />} />
         <Route path= "/sign-up" element={<SignUp />} />
         <Route path= "/Footer" element={<Footer />} />
-        <Route path= "/WSPGallery" element={<WSPGallery />} />
-        {/* <Route path= "/WSPGallery" WSPGallery galleryImages={galleryImages} element={<WSPGallery/>}/> */}
+        <Route path= "/WSPGallery" element={<WSPGallery galleryImages={galleryImages}/>} />
         </Routes>
-        {/* <WSPGallery
-        galleryImages={galleryImages}
-      /> */}
+        
         <Footer />
       </Router>
-
+      
 
     </>
   );
