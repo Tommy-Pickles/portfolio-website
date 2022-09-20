@@ -29,7 +29,7 @@ function Cards() {
                     src="/images/bean-logo.jpeg"
                     text="Beanstalk"
                     label="Memes"
-                    path='/services'
+                    path='/Beanstalk'
                     />
                     <CardItem 
                     src="/images/zip.jpeg"
