@@ -43,6 +43,7 @@
   width: 60vw;
   justify-content: end;
   margin-right: 2rem;
+  text-decoration: none;
 }
 
 .nav-item {
@@ -50,12 +51,13 @@
 }
 
 .nav-links {
-  color: #fff;
+  color: white;
   display: flex;
   align-items: center;
   text-decoration: none;
   padding: 0.5rem 1rem;
   height: 100%;
+  text-decoration: none;
 }
 
 .nav-links:hover {
@@ -155,4 +157,12 @@
     color: #242424;
     transition: 250ms;
   }
+
+
+
 }
+
+a:visited, a:link { 
+  text-decoration: none; 
+  color: white; 
+ }

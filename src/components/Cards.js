@@ -21,7 +21,7 @@ function Cards() {
                     src="/images/wonder.jpg"
                     text="Wonderland"
                     label="Memes"
-                    path='/services'
+                    path='/Wonderland'
                     />
                 </ul>
                 <ul className='cards__items'>

@@ -1,7 +1,8 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
 import "./Footer.css"
-import { Button } from './Button';
+
+
 
 
 
@@ -23,7 +24,7 @@ function Footer() {
       <section className='social-media'>
         <div className='social-media-wrap'>
           <div className='footer-logo'>
-            <Link to="/" className='social-logo'>
+            <Link to="/AboutMe" className='social-logo'>
               Opti <i class="fa-solid fa-user"></i>
             </Link>
           </div>
@@ -43,11 +44,11 @@ function Footer() {
               <i className="fab fa-twitter"></i>
             </a>
             <a className='social-icon-link youtube'
-            href='https://www.youtube.com/channel/UCUpVcZ9rHpWZvzz64No8Lfw'
+            href='https://github.com/Tommy-Pickles'
             target="_blank"
             aria-label='Youtube'
             >
-              <i className="fa-brands fa-youtube"></i>
+              <i class="fa-brands fa-github"  />
             </a>
             <a className='social-icon-link discord'
             href='https://discord.com/users/391094115439214604'
