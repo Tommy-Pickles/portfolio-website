@@ -12,7 +12,7 @@ function Cards() {
                 <ul className='cards__items'>
                     <CardItem
                     img 
-                    src=".portfolio-website/images/img-9-1.jpg"
+                    src=".portfolio-website/public/images/img-9-1.jpg"
                     text="Doge"
                     label="Memes"
                     path='WSPGallery'
