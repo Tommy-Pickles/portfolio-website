@@ -1,7 +1,8 @@
 import React from 'react'
 import CardItem from './CardItem'
 import './Cards.css';
-
+// import Beanstalk from ".public/images/wonder.jpg"
+import dogeImage from '../img/img-9-1.jpg'
 
 function Cards() {
   return (
@@ -12,7 +13,7 @@ function Cards() {
                 <ul className='cards__items'>
                     <CardItem
                     img 
-                    src="/images/img-9-1.jpg"
+                    src={dogeImage}
                     text="Doge"
                     label="Memes"
                     path='WSPGallery'
@@ -32,13 +33,13 @@ function Cards() {
                     path='/Beanstalk'
                     />
                     <CardItem 
-                    src="/images/zip.jpeg"
+                    src="/public/images/zip.jpeg"
                     text="Zip Swap"
                     label="Memes"
                     path='/services'
                     />
                     <CardItem 
-                    src="/images/drops.jpeg"
+                    src="portfolio-website/public/images/drops.jpeg"
                     text="Drops DAO"
                     label="Memes"
                     path='/services'
