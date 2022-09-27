@@ -11,6 +11,7 @@ import AboutMe from './components/pages/AboutMe';
 import WSPGallery from './components/pages/WSPGallery';
 import Wonderland from './components/pages/Wonderland';
 import Beanstalk from './components/pages/Beanstalk';
+import Test from './components/pages/Test';
 
 
 function App() {
@@ -164,6 +165,7 @@ function App() {
         <Route path= "/AboutMe" element={<AboutMe />} />
         <Route path= "/products" element={<Products />} />
         <Route path= "/sign-up" element={<SignUp />} />
+        <Route path= "/Test" element={<Test />} />
         <Route path= "/Footer" element={<Footer />} />
         <Route path= "/WSPGallery" element={<WSPGallery galleryImages={galleryImages}/>} />
         <Route path= "/Wonderland" element={<Wonderland galleryImagesW={galleryImagesW}/>} />

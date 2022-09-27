@@ -47,8 +47,8 @@ function Navbar() {
               </Link>
               </li>
               <li className = 'na-item'>
-              <Link to='/WSPGallery' classname='nav-links' onClick={closeMobileMenu}>
-                WSPGallery
+              <Link to='/Test' classname='nav-links' onClick={closeMobileMenu}>
+                Test
               </Link>
               </li>
 
