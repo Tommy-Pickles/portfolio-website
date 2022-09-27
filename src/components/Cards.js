@@ -13,7 +13,7 @@ function Cards() {
                 <ul className='cards__items'>
                     <CardItem
                     img 
-                    src={process.env.PUBLIC_URL + dogeImage}
+                    src={dogeImage}
                     text="Doge"
                     label="Memes"
                     path='WSPGallery'
