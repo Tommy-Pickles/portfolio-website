@@ -16,9 +16,20 @@ import biden from './img/doge-biden-mintspixel.jpg';
 import dogBrrr from './img/Meme-DOGE-go brrr.jpg';
 import farmer from './img/doge-pepe-farmer-pixels.jpg';
 import unbothered from './img/doge-unbothered-text.jpg';
-import signGuy from './img/doge-biden-mintspixel.jpg';
-import dogeDrake from './img/man_holding_DOGE_sign.jpg';
+import signGuy from './img/man_holding_DOGE_sign.jpg';
+import dogeDrake from './img/Doge_drake.jpg';
 import memePokemon from './img/doe-pokemon-memes-3.jpg';
+import arms from './img/doge-4arms-2.png';
+import cate from './img/cate.jpg';
+import bomb from './img/doge-comfy-bomb.png';
+import meditate from './img/doge-gm-meditate.png';
+import obama from './img/doge-obama-medal.png';
+import dogeBlur from './img/doge-blurredmona.png';
+import dogeMaps from './img/doge-googlemaps.png';
+import dogeLady from './img/doge-milady.png';
+import dogeSBF from './img/doge-SBF.png';
+// import dogeSad from './doge-sad.png';
+// import dogeRead from './doge-howto.png';
 
 
 
@@ -46,6 +57,39 @@ function App() {
     {
       img: memePokemon
     },
+    {
+      img: arms
+    },
+    {
+      img: cate
+    },
+    {
+      img: bomb
+    },
+    {
+      img: meditate
+    },
+    {
+      img: obama
+    },
+    {
+      img: dogeBlur
+    },
+    {
+      img: dogeMaps
+    },
+    {
+      img: dogeLady
+    },
+    //     {
+    //   img: dogeSad
+    // },
+    {
+      img: dogeSBF
+    },
+    //     {
+    //   img: dogeRead
+    // },
 
 
     ]
