@@ -12,12 +12,44 @@ import WSPGallery from './components/pages/WSPGallery';
 import Wonderland from './components/pages/Wonderland';
 import Beanstalk from './components/pages/Beanstalk';
 import Test from './components/pages/Test';
-import dogGod from './img/dog-god.jpg'
+import biden from './img/doge-biden-mintspixel.jpg';
+import dogBrrr from './img/Meme-DOGE-go brrr.jpg';
+import farmer from './img/doge-pepe-farmer-pixels.jpg';
+import unbothered from './img/doge-unbothered-text.jpg';
+import signGuy from './img/doge-biden-mintspixel.jpg';
+import dogeDrake from './img/man_holding_DOGE_sign.jpg';
+import memePokemon from './img/doe-pokemon-memes-3.jpg';
 
 
 
 function App() {
 
+  const galleryImages = [
+    {
+      img: biden
+    },
+    {
+      img: dogBrrr
+    },
+    {
+      img: farmer
+    },
+    {
+      img: unbothered
+    },
+    {
+      img: signGuy
+    },
+    {
+      img: dogeDrake
+    },
+    {
+      img: memePokemon
+    },
+
+
+    ]
+  
   const galleryImagesB = [
     {
       img: "/images/doge-biden-mintspixel.jpg"
@@ -66,9 +98,6 @@ function App() {
 
   const galleryImagesW = [
     {
-      img: "/images/doge-biden-mintspixel.jpg"
-    },
-    {
       img: "/images/Meme_DOGE go brrr.jpg"
     },
     {
@@ -110,51 +139,7 @@ function App() {
 
   ]
 
-  const galleryImages = [
-    {
-      img: "/images/doge-biden-mintspixel.jpg"
-    },
-    {
-      img: "/images/Meme_DOGE go brrr.jpg"
-    },
-    {
-      img: "/images/doge-pepe-farmer-pixels.jpg"
-    },
-    {
-      img: "/images/doge-unbothered-text.jpg"
-    },
-    {
-      img: "/images/man_holding_DOGE_sign.jpg"
-    },
-    {
-      img: "/images/Doge_drake.jpg"
-    },
-    {
-      img: "/images/doe-pokemon-memes-3.jpg"
-    },
-    {
-      img: "/images/doge-biden-mintspixel.jpg"
-    },
-    {
-      img: "/images/Meme_DOGE go brrr.jpg"
-    },
-    {
-      img: "/images/doge-pepe-farmer-pixels.jpg"
-    },
-    {
-      img: "/images/doge-unbothered-text.jpg"
-    },
-    {
-      img: "/images/man_holding_DOGE_sign.jpg"
-    },
-    {
-      img: "/images/Doge_drake.jpg"
-    },
-    {
-      img: "/images/doe-pokemon-memes-3.jpg"
-    },
-
-  ]
+ 
 
 
   return (
