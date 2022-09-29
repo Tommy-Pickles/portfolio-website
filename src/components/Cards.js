@@ -3,6 +3,12 @@ import CardItem from './CardItem'
 import './Cards.css';
 // import Beanstalk from ".public/images/wonder.jpg"
 import dogeImage from '../img/img-9-1.jpg'
+import wonder from '../img/wonder.jpg'
+import pepe from '../img/pepe.jpg'
+import drops from '../img/drops.jpg'
+import zip from '../img/zip.jpg'
+import bean from '../img/bean-logo.jpg'
+
 
 function Cards() {
   return (
@@ -19,7 +25,7 @@ function Cards() {
                     path='WSPGallery'
                     />
                     <CardItem 
-                    src="/images/wonder.jpg"
+                    src={wonder}
                     text="Wonderland"
                     label="Memes"
                     path='/Wonderland'
@@ -27,25 +33,25 @@ function Cards() {
                 </ul>
                 <ul className='cards__items'>
                     <CardItem 
-                    src="/images/bean-logo.jpeg"
+                    src={bean}
                     text="Beanstalk"
                     label="Memes"
                     path='/Beanstalk'
                     />
                     <CardItem 
-                    src="/public/images/zip.jpeg"
+                    src={zip}
                     text="Zip Swap"
                     label="Memes"
                     path='/services'
                     />
                     <CardItem 
-                    src="portfolio-website/public/images/drops.jpeg"
+                    src={drops}
                     text="Drops DAO"
                     label="Memes"
                     path='/services'
                     />
                     <CardItem 
-                    src="/images/pepe.jpeg"
+                    src={pepe}
                     text="Misc"
                     label="Memes"
                     path='/services'
