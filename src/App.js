@@ -12,6 +12,8 @@ import WSPGallery from './components/pages/WSPGallery';
 import Wonderland from './components/pages/Wonderland';
 import Beanstalk from './components/pages/Beanstalk';
 import Test from './components/pages/Test';
+import dogGod from './img/dog-god.jpg'
+
 
 
 function App() {

@@ -29,7 +29,7 @@ function Navbar() {
       <nav className="navbar">
         <div className="navbar-container">
           <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
-            0xprey2 <i class="fa-solid fa-frog"></i>
+            0xprey <i class="fa-solid fa-frog"></i>
           
           </Link>
           <div className='menu-icon' onClick={handleClick}>
@@ -48,7 +48,7 @@ function Navbar() {
               </li>
               <li className = 'na-item'>
               <Link to='/Test' classname='nav-links' onClick={closeMobileMenu}>
-                Test
+                Services
               </Link>
               </li>
 

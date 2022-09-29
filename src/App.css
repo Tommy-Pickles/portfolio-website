@@ -1,3 +1,4 @@
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -15,6 +16,7 @@
   align-items: center;
   justify-content: center;
   font-size: 3rem;
+  -webkit-text-stroke: 3px black;
 }
 
 .services {
@@ -36,7 +38,7 @@
 }
 
 .sign-up {
-  background-image: url('/images/img-8.jpg');
+  background-image: url('./img/bean-logo.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -45,10 +47,11 @@
 }
 
 .AboutMe {
-  background-image: url('/images/img-8.jpg');
+  background-image: url('./img/dog-god.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   color: #fff;
   font-size: 100px;
+  
 }
