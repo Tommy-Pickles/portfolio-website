@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "4cb4d026c15fabaad3b4",
-    "url": "/portfolio-website/static/css/main.72f6c7b8.chunk.css"
+    "revision": "eff7770ac289493adba5",
+    "url": "/portfolio-website/static/css/main.0555e91e.chunk.css"
   },
   {
-    "revision": "4cb4d026c15fabaad3b4",
-    "url": "/portfolio-website/static/js/main.4cb4d026.chunk.js"
+    "revision": "eff7770ac289493adba5",
+    "url": "/portfolio-website/static/js/main.eff7770a.chunk.js"
   },
   {
     "revision": "869b3c1a3c3abe1ece58",
@@ -16,6 +16,10 @@ self.__precacheManifest = [
     "url": "/portfolio-website/static/js/runtime~main.2b256896.js"
   },
   {
+    "revision": "ce256b1a3640c1b627fbd59f81846da5",
+    "url": "/portfolio-website/static/media/dog-god.ce256b1a.jpg"
+  },
+  {
     "revision": "f3ddb6cedbf8eca8871fced0bbca2c7b",
     "url": "/portfolio-website/static/media/img-9-1.f3ddb6ce.jpg"
   },
@@ -24,7 +28,7 @@ self.__precacheManifest = [
     "url": "/portfolio-website/static/media/pepe.89a1a41a.jpg"
   },
   {
-    "revision": "15e224342a6207eb8146ff4a4513f8a7",
+    "revision": "82134f25d1040ea550a18a2ddfe29bfa",
     "url": "/portfolio-website/index.html"
   }
 ];
