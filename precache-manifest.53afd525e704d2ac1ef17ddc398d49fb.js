@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "fc496f83ad96b6c5b70d",
-    "url": "/portfolio-website/static/css/main.0564846e.chunk.css"
+    "revision": "83861a43dc85587eef0e",
+    "url": "/portfolio-website/static/css/main.beda905f.chunk.css"
   },
   {
-    "revision": "fc496f83ad96b6c5b70d",
-    "url": "/portfolio-website/static/js/main.fc496f83.chunk.js"
+    "revision": "83861a43dc85587eef0e",
+    "url": "/portfolio-website/static/js/main.83861a43.chunk.js"
   },
   {
-    "revision": "943fd72c2a5f07963d87",
-    "url": "/portfolio-website/static/js/1.943fd72c.chunk.js"
+    "revision": "40b672ad655f70505755",
+    "url": "/portfolio-website/static/js/1.40b672ad.chunk.js"
   },
   {
     "revision": "2b256896c0c48cf1d86c",
@@ -92,11 +92,71 @@ self.__precacheManifest = [
     "url": "/portfolio-website/static/media/doge-SBF.5207ba0a.png"
   },
   {
+    "revision": "1ea715ae997ac53eb6e3665487bcd550",
+    "url": "/portfolio-website/static/media/doge-sad.1ea715ae.png"
+  },
+  {
+    "revision": "d16a3d3505a49ec19c6ba94364767313",
+    "url": "/portfolio-website/static/media/doge-howto.d16a3d35.png"
+  },
+  {
+    "revision": "e0dbc709bf060148dd21d75fec658a45",
+    "url": "/portfolio-website/static/media/doge-thenvsnow.e0dbc709.png"
+  },
+  {
+    "revision": "6f56b786a1412694b1a00cf8e8aa350f",
+    "url": "/portfolio-website/static/media/doge-mag_pixel-plaindoge.6f56b786.png"
+  },
+  {
+    "revision": "1f1f4b0d07923f005f8cd363b9f5ee9d",
+    "url": "/portfolio-website/static/media/Doge_bongsmoke.1f1f4b0d.png"
+  },
+  {
+    "revision": "6d94dccf653b82bfa8fccdec6c3e8fc5",
+    "url": "/portfolio-website/static/media/doge-pixelportal-pepe-drink.6d94dccf.png"
+  },
+  {
+    "revision": "e79524c94ab278fdf50d7fb1ad9ec2fa",
+    "url": "/portfolio-website/static/media/Doge_cope.e79524c9.png"
+  },
+  {
+    "revision": "0145af25a45dee413c6447c1f9762bed",
+    "url": "/portfolio-website/static/media/wonder-drake.0145af25.jpeg"
+  },
+  {
+    "revision": "94702f11588feb60c76185e0ad6cbc45",
+    "url": "/portfolio-website/static/media/always_has_been_TIME.94702f11.png"
+  },
+  {
+    "revision": "368d7e6393c33210f5683ecc1dc6a5c3",
+    "url": "/portfolio-website/static/media/train_shitcoin_OHM.368d7e63.png"
+  },
+  {
+    "revision": "0621f40efbd237093c6eb59b876b02e1",
+    "url": "/portfolio-website/static/media/they_dont_know24_11.0621f40e.JPG"
+  },
+  {
+    "revision": "0474ad926ce05ee456edf9c2f6c3f1ff",
+    "url": "/portfolio-website/static/media/snowban_rug_fin.0474ad92.png"
+  },
+  {
+    "revision": "81364e6345781bf1e85be5d3e05c1042",
+    "url": "/portfolio-website/static/media/printer_brr_time.81364e63.png"
+  },
+  {
+    "revision": "247ce17165eb96ce4d987adfe84c6a20",
+    "url": "/portfolio-website/static/media/wonder-cave.247ce171.png"
+  },
+  {
+    "revision": "2b87b1262fd3c0e858a22210da0b3667",
+    "url": "/portfolio-website/static/media/Frogs_V_Joe_FIN2.2b87b126.jpg"
+  },
+  {
     "revision": "44fb17a298b5525ad7957385665b6dcf",
     "url": "/portfolio-website/static/media/img-home-2.44fb17a2.jpg"
   },
   {
-    "revision": "8102a2ef4175c4fdd7334dda9da745ea",
+    "revision": "8fe493f9555f379642807774f1ba1116",
     "url": "/portfolio-website/index.html"
   }
 ];
