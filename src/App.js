@@ -28,8 +28,21 @@ import dogeBlur from './img/doge-blurredmona.png';
 import dogeMaps from './img/doge-googlemaps.png';
 import dogeLady from './img/doge-milady.png';
 import dogeSBF from './img/doge-SBF.png';
-// import dogeSad from './doge-sad.png';
-// import dogeRead from './doge-howto.png';
+import dogeSad from './img/doge-sad.png';
+import dogeRead from './img/doge-howto.png';
+import dogeZoomer from './img/doge-thenvsnow.png';
+import dogeLaptop from './img/doge-mag_pixel-plaindoge.png';
+import dogeSmoke from './img/Doge_bongsmoke.png';
+import dogePortal from './img/doge-pixelportal-pepe-drink.png';
+import dogeCope from './img/Doge_cope.png';
+import wonderDrake from './img/wonder-drake.jpeg';
+import wonderAlways from './img/always_has_been_TIME.png';
+import wonderTrain from './img/train_shitcoin_OHM.png';
+import wonderDontKnow from './img/they_dont_know24_11.JPG';
+import wonderSnow from './img/snowban_rug_fin.png';
+import wonderBrrr from './img/printer_brr_time.png';
+import wonderCave from './img/wonder-cave.png';
+import wonderJoe from './img/Frogs_V_Joe_FIN2.jpg';
 
 
 
@@ -81,18 +94,34 @@ function App() {
     {
       img: dogeLady
     },
-    //     {
-    //   img: dogeSad
-    // },
+        {
+      img: dogeSad
+    },
     {
       img: dogeSBF
     },
-    //     {
-    //   img: dogeRead
-    // },
+        {
+      img: dogeRead
+    },
+    {
+      img: dogeZoomer
+    },
+        {
+      img: dogeLaptop
+    },
+    {
+      img: dogeSmoke
+    },
+        {
+      img: dogePortal
+    },
 
-
+    {
+      dogeCope
+    }
+    
     ]
+
   
   const galleryImagesB = [
     {
@@ -142,44 +171,30 @@ function App() {
 
   const galleryImagesW = [
     {
-      img: "/images/Meme_DOGE go brrr.jpg"
+      img: wonderDrake
     },
     {
-      img: "/images/doge-pepe-farmer-pixels.jpg"
+      img: wonderAlways
     },
     {
-      img: "/images/doge-unbothered-text.jpg"
+      img: wonderTrain
     },
     {
-      img: "/images/man_holding_DOGE_sign.jpg"
+      img: wonderDontKnow
     },
     {
-      img: "/images/Doge_drake.jpg"
+      img: wonderSnow
     },
     {
-      img: "/images/doe-pokemon-memes-3.jpg"
+      img: wonderBrrr
     },
     {
-      img: "/images/doge-biden-mintspixel.jpg"
+      img: wonderCave
     },
     {
-      img: "/images/Meme_DOGE go brrr.jpg"
+      img: wonderJoe
     },
-    {
-      img: "/images/doge-pepe-farmer-pixels.jpg"
-    },
-    {
-      img: "/images/doge-unbothered-text.jpg"
-    },
-    {
-      img: "/images/man_holding_DOGE_sign.jpg"
-    },
-    {
-      img: "/images/Doge_drake.jpg"
-    },
-    {
-      img: "/images/doe-pokemon-memes-3.jpg"
-    },
+
 
   ]
 
