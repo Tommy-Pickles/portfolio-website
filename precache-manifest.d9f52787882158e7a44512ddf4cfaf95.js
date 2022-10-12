@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "41b5a5ec5461ca1422fa",
-    "url": "/portfolio-website/static/css/main.bfe03aae.chunk.css"
+    "revision": "5988395506c12f218a32",
+    "url": "/portfolio-website/static/css/main.74230a3f.chunk.css"
   },
   {
-    "revision": "41b5a5ec5461ca1422fa",
-    "url": "/portfolio-website/static/js/main.41b5a5ec.chunk.js"
+    "revision": "5988395506c12f218a32",
+    "url": "/portfolio-website/static/js/main.59883955.chunk.js"
   },
   {
     "revision": "40b672ad655f70505755",
@@ -152,11 +152,11 @@ self.__precacheManifest = [
     "url": "/portfolio-website/static/media/Frogs_V_Joe_FIN2.2b87b126.jpg"
   },
   {
-    "revision": "44fb17a298b5525ad7957385665b6dcf",
-    "url": "/portfolio-website/static/media/img-home-2.44fb17a2.jpg"
+    "revision": "4b80f65ebe63c8816b0ea63f9a4fcef0",
+    "url": "/portfolio-website/static/media/website-homepage.4b80f65e.png"
   },
   {
-    "revision": "cb277d2a1939dcd8726efe68a6b0b52e",
+    "revision": "b32a8d3142449a59c387df211c825e96",
     "url": "/portfolio-website/index.html"
   }
 ];
