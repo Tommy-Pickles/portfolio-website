@@ -14,7 +14,7 @@ function Home() {
       <HomeSection />
       {/* <Cards /> */}
       <CatCards />
-      <WSPGallery />
+      {/* <WSPGallery /> */}
 
 
 

@@ -5,7 +5,9 @@
     align-items: center;
     justify-content: center;
     max-width: 620px;
-    margin: 0 auto;
+    margin:  auto;
+    margin-bottom: 60px;
+    margin-top: 60px;
   }
   
   .galleryWrap .single {

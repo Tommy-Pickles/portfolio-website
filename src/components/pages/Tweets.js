@@ -18,7 +18,7 @@ export const Tweet1 = () => {
 }
 
 export const Tweet2 = () => {
-  return <TweetEmbed tweetId="1531750365208657920" />
+  return <TweetEmbed tweetId="1507043024047464454" />
 }
 
 

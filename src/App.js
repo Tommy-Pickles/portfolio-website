@@ -45,6 +45,7 @@ import wonderCave from './img/wonder-cave.png';
 import Cards from './components/Cards';
 import Tweets from './components/pages/Tweets';
 // import wonderJoe from './img/Frogs_V_Joe_FIN2.jpg';
+import {Helmet} from "react-helmet";
 
 
 
@@ -127,47 +128,24 @@ function App() {
   
   const galleryImagesB = [
     {
-      img: "/images/doge-biden-mintspixel.jpg"
+      img: require('./img/They_dont_know_bean.jpg')
     },
     {
-      img: "/images/Meme_DOGE go brrr.jpg"
+      img: require('./img/bean_castle.jpg')
     },
     {
-      img: "/images/doge-pepe-farmer-pixels.jpg"
+      img: require('./img/farm_bean_1.jpg')
     },
     {
-      img: "/images/doge-unbothered-text.jpg"
+      img: require('./img/Bean_bell_3.jpg')
     },
     {
-      img: "/images/man_holding_DOGE_sign.jpg"
-    },
-    {
-      img: "/images/Doge_drake.jpg"
-    },
-    {
-      img: "/images/doe-pokemon-memes-3.jpg"
-    },
-    {
-      img: "/images/doge-biden-mintspixel.jpg"
-    },
-    {
-      img: "/images/Meme_DOGE go brrr.jpg"
-    },
-    {
-      img: "/images/doge-pepe-farmer-pixels.jpg"
-    },
-    {
-      img: "/images/doge-unbothered-text.jpg"
-    },
-    {
-      img: "/images/man_holding_DOGE_sign.jpg"
+      img: require('./img/Bean_bell.png')
     },
     {
       img: "/images/Doge_drake.jpg"
     },
-    {
-      img: "/images/doe-pokemon-memes-3.jpg"
-    },
+  
 
   ]
 
@@ -224,7 +202,12 @@ function App() {
         
         <Footer />
       </Router>
-      
+      <Helmet>
+                <meta charSet="utf-8" />
+                <title>COCK</title>
+                <link rel="canonical" href="https://Tommy-Pickles.github.io/portfolio-website" />
+                <meta name="description" content="PUSSY PUSSY PUSSY HOLE" />
+        </Helmet>
 
     </>
   );
