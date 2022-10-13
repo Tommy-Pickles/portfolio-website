@@ -42,7 +42,7 @@ import wonderDontKnow from './img/they_dont_know24_11.JPG';
 import wonderSnow from './img/snowban_rug_fin.png';
 import wonderBrrr from './img/printer_brr_time.png';
 import wonderCave from './img/wonder-cave.png';
-import wonderJoe from './img/Frogs_V_Joe_FIN2.jpg';
+// import wonderJoe from './img/Frogs_V_Joe_FIN2.jpg';
 
 
 
@@ -192,7 +192,7 @@ function App() {
       img: wonderCave
     },
     {
-      img: wonderJoe
+      img: require('./img/Frogs_V_Joe_FIN2.jpg')
     },
 
 
