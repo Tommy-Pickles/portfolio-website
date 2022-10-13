@@ -10,6 +10,9 @@ import zip from '../img/zip.jpg'
 import bean from '../img/bean-logo.jpg'
 import WSPGallery from './pages/WSPGallery';
 import CardItem2 from './CardItem2';
+import twitterLogo2 from '../img/EMfZ2VWXYAAZhu2.png'
+import Tweets from './pages/Tweets';
+import pepeWriting from'../img/pp,504x498-pad,600x600,f8f8f8.png'
 
 
 
@@ -21,7 +24,7 @@ function Cards() {
             <div className='cards__wrapper'>
                 <ul className='cards__items'>
                     <CardItem 
-                    src={wonder}
+                    src={pepe}
                     text="Memes"
                     label="Memes"
                     path='/Cards'
@@ -30,14 +33,14 @@ function Cards() {
                 </ul>
                 <ul className='cards__items'>
                     <CardItem 
-                    src={bean}
+                    src={twitterLogo2}
                     text="Tweets"
                     label="Memes"
-                    path='/Beanstalk'
+                    path='/Tweets'
                     />
                     <CardItem2
                     img 
-                    src={dogeImage}
+                    src={pepeWriting}
                     text="Writing"
                     label="Memes"
                     path= "/Writing"

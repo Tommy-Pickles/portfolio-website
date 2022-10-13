@@ -43,6 +43,7 @@ import wonderSnow from './img/snowban_rug_fin.png';
 import wonderBrrr from './img/printer_brr_time.png';
 import wonderCave from './img/wonder-cave.png';
 import Cards from './components/Cards';
+import Tweets from './components/pages/Tweets';
 // import wonderJoe from './img/Frogs_V_Joe_FIN2.jpg';
 
 
@@ -215,6 +216,7 @@ function App() {
         <Route path= "/sign-up" element={<SignUp />} />
         <Route path= "/Test" element={<Test />} />
         <Route path= "/Footer" element={<Footer />} />
+        <Route path= "/Tweets" element={<Tweets />} />
         <Route path= "/WSPGallery" element={<WSPGallery galleryImages={galleryImages}/>} />
         <Route path= "/Wonderland" element={<Wonderland galleryImagesW={galleryImagesW}/>} />
         <Route path= "/Beanstalk" element={<Beanstalk galleryImagesB={galleryImagesB}/>} />
