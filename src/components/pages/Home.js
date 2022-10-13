@@ -3,12 +3,17 @@ import '../../App.css';
 import Cards from '../Cards';
 import HeroSection from '../HeroSection';
 import WSPGallery from './WSPGallery';
+import HomeSection from '../HomeSection';
+import CatCards from '../CatCards';
+
 
 function Home() {
   return (
     <>
-      <HeroSection />
-      <Cards />
+      {/* <HeroSection /> */}
+      <HomeSection />
+      {/* <Cards /> */}
+      <CatCards />
       <WSPGallery />
 
 

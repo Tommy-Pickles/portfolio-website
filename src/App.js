@@ -42,6 +42,7 @@ import wonderDontKnow from './img/they_dont_know24_11.JPG';
 import wonderSnow from './img/snowban_rug_fin.png';
 import wonderBrrr from './img/printer_brr_time.png';
 import wonderCave from './img/wonder-cave.png';
+import Cards from './components/Cards';
 // import wonderJoe from './img/Frogs_V_Joe_FIN2.jpg';
 
 
@@ -207,6 +208,7 @@ function App() {
         <Navbar />
         <Routes>
         <Route path={"/"} element={<Home />} />
+        <Route path={"Cards"} element={<Cards />} />
         <Route path= "/services" element={<Services />} />
         <Route path= "/AboutMe" element={<AboutMe />} />
         <Route path= "/products" element={<Products />} />
