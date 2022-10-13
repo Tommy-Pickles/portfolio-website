@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "6ef930b19ad14a2ab9d2",
-    "url": "/portfolio-website/static/css/main.134711a2.chunk.css"
+    "revision": "33a491c04535156b89bd",
+    "url": "/portfolio-website/static/css/main.17b60226.chunk.css"
   },
   {
-    "revision": "6ef930b19ad14a2ab9d2",
-    "url": "/portfolio-website/static/js/main.6ef930b1.chunk.js"
+    "revision": "33a491c04535156b89bd",
+    "url": "/portfolio-website/static/js/main.33a491c0.chunk.js"
   },
   {
-    "revision": "b3b69f25f1015cf18ca4",
-    "url": "/portfolio-website/static/js/1.b3b69f25.chunk.js"
+    "revision": "b0864a8386e9a47778db",
+    "url": "/portfolio-website/static/js/1.b0864a83.chunk.js"
   },
   {
     "revision": "2b256896c0c48cf1d86c",
@@ -160,11 +160,31 @@ self.__precacheManifest = [
     "url": "/portfolio-website/static/media/wonder-cave.247ce171.png"
   },
   {
+    "revision": "e38d4c65a8d260a41d809b3b9eddf829",
+    "url": "/portfolio-website/static/media/They_dont_know_bean.e38d4c65.jpg"
+  },
+  {
+    "revision": "485372da061978a9c699179be812b8ba",
+    "url": "/portfolio-website/static/media/bean_castle.485372da.jpg"
+  },
+  {
+    "revision": "02ad4997689b5f759c5370b16643eaa2",
+    "url": "/portfolio-website/static/media/farm_bean_1.02ad4997.jpg"
+  },
+  {
+    "revision": "e75f1b80292afc538c575645a2c62b9a",
+    "url": "/portfolio-website/static/media/Bean_bell_3.e75f1b80.jpg"
+  },
+  {
+    "revision": "6beb05bf9c75be570a33b3b46b79d5d3",
+    "url": "/portfolio-website/static/media/Bean_bell.6beb05bf.png"
+  },
+  {
     "revision": "2b87b1262fd3c0e858a22210da0b3667",
     "url": "/portfolio-website/static/media/Frogs_V_Joe_FIN2.2b87b126.jpg"
   },
   {
-    "revision": "385255f1d1280e57c7bc50bb6683e43e",
+    "revision": "61325ca8c1bf715cafff946529480cc7",
     "url": "/portfolio-website/index.html"
   }
 ];
