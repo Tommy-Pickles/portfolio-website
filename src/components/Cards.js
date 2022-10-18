@@ -43,19 +43,19 @@ function Cards() {
                     src={zip}
                     text="Zip Swap"
                     label="Memes"
-                    path='/services'
+                    path='/Zip'
                     />
                     <CardItem 
                     src={drops}
                     text="Drops DAO"
                     label="Memes"
-                    path='/services'
+                    path='/Drops'
                     />
                     <CardItem 
                     src={pepe}
                     text="Misc"
                     label="Memes"
-                    path='/services'
+                    path='/Misc'
                     />
                 </ul>
             </div>

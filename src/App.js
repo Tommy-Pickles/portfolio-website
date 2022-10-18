@@ -46,6 +46,10 @@ import Cards from './components/Cards';
 import Tweets from './components/pages/Tweets';
 // import wonderJoe from './img/Frogs_V_Joe_FIN2.jpg';
 import {Helmet} from "react-helmet";
+import img from '../src';
+import Drops from './components/pages/Drops';
+import Zip from './components/pages/Zip';
+import Misc from './components/pages/Misc';
 
 
 
@@ -120,7 +124,7 @@ function App() {
     },
 
     {
-      dogeCope
+      img: dogeCope
     }
     
     ]
@@ -128,7 +132,7 @@ function App() {
   
   const galleryImagesB = [
     {
-      img: require('./img/They_dont_know_bean.jpg')
+      img: require('./img/Frogs_V_Joe_FIN2.jpg')
     },
     {
       img: require('./img/bean_castle.jpg')
@@ -142,9 +146,7 @@ function App() {
     {
       img: require('./img/Bean_bell.png')
     },
-    {
-      img: "/images/Doge_drake.jpg"
-    },
+
   
 
   ]
@@ -178,6 +180,62 @@ function App() {
 
   ]
 
+  const galleryImagesD = [
+    {
+      img: require('./img/Frogs_V_Joe_FIN2.jpg')
+    },
+    {
+      img: require('./img/bean_castle.jpg')
+    },
+    {
+      img: require('./img/farm_bean_1.jpg')
+    },
+    {
+      img: require('./img/Bean_bell_3.jpg')
+    },
+    {
+      img: require('./img/Bean_bell.png')
+    },
+  ]
+
+  const galleryImagesZ = [
+    {
+      img: require('./img/Frogs_V_Joe_FIN2.jpg')
+    },
+    {
+      img: require('./img/bean_castle.jpg')
+    },
+    {
+      img: require('./img/farm_bean_1.jpg')
+    },
+    {
+      img: require('./img/Bean_bell_3.jpg')
+    },
+    {
+      img: require('./img/Bean_bell.png')
+    },
+  ]
+
+  const galleryImagesM = [
+    {
+      img: require('./img/Frogs_V_Joe_FIN2.jpg')
+    },
+    {
+      img: require('./img/bean_castle.jpg')
+    },
+    {
+      img: require('./img/farm_bean_1.jpg')
+    },
+    {
+      img: require('./img/Bean_bell_3.jpg')
+    },
+    {
+      img: require('./img/Bean_bell.png')
+    },
+  ]
+
+  
+
  
 
 
@@ -198,6 +256,9 @@ function App() {
         <Route path= "/WSPGallery" element={<WSPGallery galleryImages={galleryImages}/>} />
         <Route path= "/Wonderland" element={<Wonderland galleryImagesW={galleryImagesW}/>} />
         <Route path= "/Beanstalk" element={<Beanstalk galleryImagesB={galleryImagesB}/>} />
+        <Route path= "/Drops" element={<Drops galleryImagesD={galleryImagesD}/>} />
+        <Route path= "/Misc" element={<Misc galleryImagesM={galleryImagesM}/>} />
+        <Route path= "/Zip" element={<Zip galleryImagesZ={galleryImagesZ}/>} />
         </Routes>
         
         <Footer />
