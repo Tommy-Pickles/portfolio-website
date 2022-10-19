@@ -44,7 +44,7 @@ function Footer() {
               <i className="fab fa-twitter"></i>
             </a>
             <a className='social-icon-link youtube'
-            href='https://github.com/Tommy-Pickles'
+            // href='https://github.com/Tommy-Pickles'
             target="_blank"
             aria-label='Youtube'
             >

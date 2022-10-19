@@ -267,7 +267,7 @@ function App() {
                 <meta charSet="utf-8" />
                 <title>COCK</title>
                 <link rel="canonical" href="https://Tommy-Pickles.github.io/portfolio-website" />
-                <meta name="description" content="PUSSY PUSSY PUSSY HOLE" />
+                <meta name="description" content="TEST TEST TEST" />
         </Helmet>
 
     </>
