@@ -34,6 +34,12 @@ function Cards() {
                 </ul>
                 <ul className='cards__items'>
                     <CardItem 
+                    src={drops}
+                    text="Drops DAO"
+                    label="Memes"
+                    path='/Drops'
+                    />
+                    <CardItem 
                     src={bean}
                     text="Beanstalk"
                     label="Memes"
@@ -44,12 +50,6 @@ function Cards() {
                     text="Zip Swap"
                     label="Memes"
                     path='/Zip'
-                    />
-                    <CardItem 
-                    src={drops}
-                    text="Drops DAO"
-                    label="Memes"
-                    path='/Drops'
                     />
                     <CardItem 
                     src={pepe}

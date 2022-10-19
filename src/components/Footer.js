@@ -25,19 +25,19 @@ function Footer() {
         <div className='social-media-wrap'>
           <div className='footer-logo'>
             <Link to="/AboutMe" className='social-logo'>
-              Opti   <i class="fa-solid fa-user"></i>
+              CC   <i class="fa-solid fa-user"></i>
             </Link>
           </div>
           <div className='social-icons'>
             <a className='social-icon-link telegram'
-            href="https://t.me/Oxprey" 
+            // href="https://t.me/Oxprey" 
             target="_blank"
             aria-label='Mirror'
             >
             <i className="fab fa-telegram"></i>
             </a>
             <a className='social-icon-link twitter'
-            href='https://twitter.com/0xprey_'
+            // href='https://twitter.com/0xprey_'
             target="_blank"
             aria-label='Twitter'
             >
@@ -51,7 +51,7 @@ function Footer() {
               <i class="fa-brands fa-github"  />
             </a>
             <a className='social-icon-link discord'
-            href='https://discord.com/users/391094115439214604'
+            // href='https://discord.com/users/391094115439214604'
             target="_blank"
             aria-label='Youtube'
             >

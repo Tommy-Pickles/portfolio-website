@@ -176,62 +176,156 @@ function App() {
     {
       img: require('./img/Frogs_V_Joe_FIN2.jpg')
     },
+    {
+      img: require('./img/wonder-ooor.jpeg')
+    },
+    {
+      img: require('./img/wonder-date.jpeg')
+    },
+    {
+      img: require('./img/farm_frog.png')
+    },
+    {
+      img: require('./img/wonder-suitsvfrogs.jpeg')
+    },
+    {
+      img: require('./img/wonder-flip.jpeg')
+    },
+    {
+      img: require('./img/wonder-water.png')
+    },
+    {
+      img: require('./img/wonder-xmen.jpeg')
+    },
+    {
+      img: require('./img/price_premium4.png')
+    },
+    {
+      img: require('./img/Dani_santa.png')
+    },
+    {
+      img: require('./img/dani_lazer_eyes.png')
+    },
 
 
   ]
 
   const galleryImagesD = [
     {
-      img: require('./img/Frogs_V_Joe_FIN2.jpg')
+      img: require('./img/ms-dropsdao-dropsatm-2.png')
     },
     {
-      img: require('./img/bean_castle.jpg')
+      img: require('./img/dropsdao_comfy-gamer.png')
     },
     {
-      img: require('./img/farm_bean_1.jpg')
+      img: require('./img/drops-smoking-pepe.png')
     },
     {
-      img: require('./img/Bean_bell_3.jpg')
+      img: require('./img/drops-train-white.png')
     },
+    {
+      img: require('./img/drops-vap-cash.png')
+    },
+    {
+      img: require('./img/drops-hopium.png')
+    },
+    {
+      img: require('./img/dropsdao-peterparker.png')
+    },
+    {
+      img: require('./img/drops-parents.png')
+    },
+    {
+      img: require('./img/drops-god.png')
+    },
+    {
+      img: require('./img/drops-harlot-notjpegs.png')
+    },
+    {
+      img: require('./img/dropsdao-captain.png')
+    },
+    {
+      img: require('./img/ms-dropsdao-printer.png')
+    },
+    {
+      img: require('./img/dropsdao-marine.gif')
+    },
+
+
     {
       img: require('./img/Bean_bell.png')
     },
+    {
+      img: require('./img/dropsdao-jesus-sun.png')
+    },
+
+
   ]
 
   const galleryImagesZ = [
     {
-      img: require('./img/Frogs_V_Joe_FIN2.jpg')
+      img: require('./img/zip-angels.jpeg')
     },
     {
-      img: require('./img/bean_castle.jpg')
+      img: require('./img/zip-bell.jpeg')
     },
     {
-      img: require('./img/farm_bean_1.jpg')
+      img: require('./img/zip-goodprice.jpeg')
     },
     {
-      img: require('./img/Bean_bell_3.jpg')
+      img: require('./img/zip-neet.jpeg')
     },
     {
-      img: require('./img/Bean_bell.png')
+      img: require('./img/zip-chad.jpeg')
     },
+    {
+      img: require('./img/zip-compressooor.jpeg')
+    },
+
   ]
 
   const galleryImagesM = [
     {
-      img: require('./img/Frogs_V_Joe_FIN2.jpg')
+      img: require('./img/sweetprince.png')
     },
     {
-      img: require('./img/bean_castle.jpg')
+      img: require('./img/misc-fed.png')
     },
     {
-      img: require('./img/farm_bean_1.jpg')
+      img: require('./img/misc-reaper.jpeg')
     },
     {
-      img: require('./img/Bean_bell_3.jpg')
+      img: require('./img/misc-op.jpeg')
     },
     {
-      img: require('./img/Bean_bell.png')
+      img: require('./img/misc-scomo.jpeg')
     },
+    {
+      img: require('./img/misc-solidarity.jpeg')
+    },
+    {
+      img: require('./img/misc-dpx-chart.png')
+    },
+    {
+      img: require('./img/misc-zerion-chad.jpeg')
+    },
+    {
+      img: require('./img/misc-dpx-bear.jpeg')
+    },
+    {
+      img: require('./img/misc-ww3.jpeg')
+    },
+    {
+      img: require('./img/misc-kayos.png')
+    },
+    {
+      img: require('./img/misc-kingpapi.jpeg')
+    },
+    {
+      img: require('./img/wonde-danis.jpeg')
+    },
+    
+
   ]
 
   
