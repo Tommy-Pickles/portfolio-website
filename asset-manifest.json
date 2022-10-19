@@ -1,7 +1,7 @@
 {
-  "main.css": "/portfolio-website/static/css/main.336efde4.chunk.css",
-  "main.js": "/portfolio-website/static/js/main.067c62d8.chunk.js",
-  "main.js.map": "/portfolio-website/static/js/main.067c62d8.chunk.js.map",
+  "main.css": "/portfolio-website/static/css/main.b3f3d7fa.chunk.css",
+  "main.js": "/portfolio-website/static/js/main.be39db21.chunk.js",
+  "main.js.map": "/portfolio-website/static/js/main.be39db21.chunk.js.map",
   "static/js/1.bf4e04cb.chunk.js": "/portfolio-website/static/js/1.bf4e04cb.chunk.js",
   "static/js/1.bf4e04cb.chunk.js.map": "/portfolio-website/static/js/1.bf4e04cb.chunk.js.map",
   "runtime~main.js": "/portfolio-website/static/js/runtime~main.2b256896.js",
@@ -14,7 +14,7 @@
   "static/media/Bean_bell_3.jpg": "/portfolio-website/static/media/Bean_bell_3.e75f1b80.jpg",
   "static/media/Bean_bell.png": "/portfolio-website/static/media/Bean_bell.6beb05bf.png",
   "static/media/pepe.jpg": "/portfolio-website/static/media/pepe.89a1a41a.jpg",
-  "static/media/HeroSection.css": "/portfolio-website/static/media/website-homepage.4b80f65e.png",
+  "static/media/HeroSection.css": "/portfolio-website/static/media/Artboard-1.73ae569e.png",
   "static/media/EMfZ2VWXYAAZhu2.png": "/portfolio-website/static/media/EMfZ2VWXYAAZhu2.8a2409c3.png",
   "static/media/pp,504x498-pad,600x600,f8f8f8.png": "/portfolio-website/static/media/pp,504x498-pad,600x600,f8f8f8.1df7b106.png",
   "static/media/doge-biden-mintspixel.jpg": "/portfolio-website/static/media/doge-biden-mintspixel.2f5bd860.jpg",
@@ -47,8 +47,8 @@
   "static/media/snowban_rug_fin.png": "/portfolio-website/static/media/snowban_rug_fin.0474ad92.png",
   "static/media/printer_brr_time.png": "/portfolio-website/static/media/printer_brr_time.81364e63.png",
   "static/media/wonder-cave.png": "/portfolio-website/static/media/wonder-cave.247ce171.png",
-  "static/css/main.336efde4.chunk.css.map": "/portfolio-website/static/css/main.336efde4.chunk.css.map",
+  "static/css/main.b3f3d7fa.chunk.css.map": "/portfolio-website/static/css/main.b3f3d7fa.chunk.css.map",
   "index.html": "/portfolio-website/index.html",
-  "precache-manifest.60d9ce1778c0f80c67a496a42e8f3277.js": "/portfolio-website/precache-manifest.60d9ce1778c0f80c67a496a42e8f3277.js",
+  "precache-manifest.46f4b2b76d18200f2db475a4316667e3.js": "/portfolio-website/precache-manifest.46f4b2b76d18200f2db475a4316667e3.js",
   "service-worker.js": "/portfolio-website/service-worker.js"
 }

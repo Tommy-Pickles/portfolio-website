@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "067c62d831f30b942e14",
-    "url": "/portfolio-website/static/css/main.336efde4.chunk.css"
+    "revision": "be39db21c216b67d7a66",
+    "url": "/portfolio-website/static/css/main.b3f3d7fa.chunk.css"
   },
   {
-    "revision": "067c62d831f30b942e14",
-    "url": "/portfolio-website/static/js/main.067c62d8.chunk.js"
+    "revision": "be39db21c216b67d7a66",
+    "url": "/portfolio-website/static/js/main.be39db21.chunk.js"
   },
   {
     "revision": "bf4e04cbb1aed769ca8f",
@@ -48,8 +48,8 @@ self.__precacheManifest = [
     "url": "/portfolio-website/static/media/pepe.89a1a41a.jpg"
   },
   {
-    "revision": "4b80f65ebe63c8816b0ea63f9a4fcef0",
-    "url": "/portfolio-website/static/media/website-homepage.4b80f65e.png"
+    "revision": "73ae569e72ba324a98943c6b4f117c34",
+    "url": "/portfolio-website/static/media/Artboard-1.73ae569e.png"
   },
   {
     "revision": "8a2409c31ecfc1ba0e7f9c01bcdb0cb5",
@@ -180,7 +180,7 @@ self.__precacheManifest = [
     "url": "/portfolio-website/static/media/wonder-cave.247ce171.png"
   },
   {
-    "revision": "331ff7a0ed58db932e846f34ec3540c6",
+    "revision": "b40ee22422dfd67f72fb56b1ff0935e1",
     "url": "/portfolio-website/index.html"
   }
 ];
