@@ -70,33 +70,25 @@ function Tweets() {
 
 
       :
-    
-  
+              <div id= "cols">
+                {/* <ul className='Tweets__items'> */}
+                <ul >
+                    <Tweet1/> 
+                     <Tweet3/>   
+                     <Tweet3/> 
+                     <Tweet10/> 
+                     <Tweet4/> 
+                     <Tweet5/> 
+                     <Tweet8/> 
+                     <Tweet6/> 
+                     
+                     <Tweet7/> 
+                     
+                     <Tweet9/> 
+                     <Tweet2/> 
+                </ul>
+              </ div>
 
-        <div className='Tweets__container'>
-            <div className='Tweets__wrapper'>
-                <ul className='Tweets__items'>
-                    <Tweet1 />
-                    <Tweet2 />
-                    <Tweet3 />
-                    <Tweet4 />
-                    <Tweet5 />
-                    <Tweet6 />
-                    <Tweet7 />
-                    <Tweet8 />
-                    <Tweet9 />
-                    <Tweet10 />
-                </ul>
-                <ul className='Tweets__items'>
-                    <Tweet2 />
-                     <Tweet4 />
-                    <Tweet5 />
-                    <Tweet6 />
-  
-                </ul>
-                    
-            </div>
-        </div>
  }
     </div>
 
