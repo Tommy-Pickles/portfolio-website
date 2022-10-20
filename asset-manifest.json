@@ -1,7 +1,7 @@
 {
-  "main.css": "/portfolio-website/static/css/main.f32b7ce6.chunk.css",
-  "main.js": "/portfolio-website/static/js/main.60d84a77.chunk.js",
-  "main.js.map": "/portfolio-website/static/js/main.60d84a77.chunk.js.map",
+  "main.css": "/portfolio-website/static/css/main.999c9638.chunk.css",
+  "main.js": "/portfolio-website/static/js/main.177e06d9.chunk.js",
+  "main.js.map": "/portfolio-website/static/js/main.177e06d9.chunk.js.map",
   "static/js/1.c38935ca.chunk.js": "/portfolio-website/static/js/1.c38935ca.chunk.js",
   "static/js/1.c38935ca.chunk.js.map": "/portfolio-website/static/js/1.c38935ca.chunk.js.map",
   "runtime~main.js": "/portfolio-website/static/js/runtime~main.2b256896.js",
@@ -90,8 +90,8 @@
   "static/media/misc-kayos.png": "/portfolio-website/static/media/misc-kayos.e3032f45.png",
   "static/media/misc-kingpapi.jpeg": "/portfolio-website/static/media/misc-kingpapi.48c8d4c4.jpeg",
   "static/media/wonde-danis.jpeg": "/portfolio-website/static/media/wonde-danis.c83547f6.jpeg",
-  "static/css/main.f32b7ce6.chunk.css.map": "/portfolio-website/static/css/main.f32b7ce6.chunk.css.map",
+  "static/css/main.999c9638.chunk.css.map": "/portfolio-website/static/css/main.999c9638.chunk.css.map",
   "index.html": "/portfolio-website/index.html",
-  "precache-manifest.735f9681f966768fac887390adf420fd.js": "/portfolio-website/precache-manifest.735f9681f966768fac887390adf420fd.js",
+  "precache-manifest.8d2ca26c5e9bb6b1fada4d4cb6d5fc26.js": "/portfolio-website/precache-manifest.8d2ca26c5e9bb6b1fada4d4cb6d5fc26.js",
   "service-worker.js": "/portfolio-website/service-worker.js"
 }
