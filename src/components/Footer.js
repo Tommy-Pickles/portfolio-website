@@ -30,28 +30,28 @@ function Footer() {
           </div>
           <div className='social-icons'>
             <a className='social-icon-link telegram'
-            // href="https://t.me/Oxprey" 
+            href="https://t.me/Oxprey" 
             target="_blank"
             aria-label='Mirror'
             >
             <i className="fab fa-telegram"></i>
             </a>
             <a className='social-icon-link twitter'
-            // href='https://twitter.com/0xprey_'
+            href='https://twitter.com/0xprey_'
             target="_blank"
             aria-label='Twitter'
             >
               <i className="fab fa-twitter"></i>
             </a>
             <a className='social-icon-link youtube'
-            // href='https://github.com/Tommy-Pickles'
+            href='https://github.com/Tommy-Pickles'
             target="_blank"
             aria-label='Youtube'
             >
               <i class="fa-brands fa-github"  />
             </a>
             <a className='social-icon-link discord'
-            // href='https://discord.com/users/391094115439214604'
+            href='https://discord.com/users/391094115439214604'
             target="_blank"
             aria-label='Youtube'
             >
