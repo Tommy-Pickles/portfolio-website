@@ -1,7 +1,7 @@
 {
   "main.css": "/portfolio-website/static/css/main.2855909a.chunk.css",
-  "main.js": "/portfolio-website/static/js/main.8bd7ed47.chunk.js",
-  "main.js.map": "/portfolio-website/static/js/main.8bd7ed47.chunk.js.map",
+  "main.js": "/portfolio-website/static/js/main.4373a7eb.chunk.js",
+  "main.js.map": "/portfolio-website/static/js/main.4373a7eb.chunk.js.map",
   "static/js/1.b60f8709.chunk.js": "/portfolio-website/static/js/1.b60f8709.chunk.js",
   "static/js/1.b60f8709.chunk.js.map": "/portfolio-website/static/js/1.b60f8709.chunk.js.map",
   "runtime~main.js": "/portfolio-website/static/js/runtime~main.2b256896.js",
@@ -92,6 +92,6 @@
   "static/media/wonde-danis.jpeg": "/portfolio-website/static/media/wonde-danis.c83547f6.jpeg",
   "static/css/main.2855909a.chunk.css.map": "/portfolio-website/static/css/main.2855909a.chunk.css.map",
   "index.html": "/portfolio-website/index.html",
-  "precache-manifest.b9ce4a431e4dcb042b13c4c4210f544e.js": "/portfolio-website/precache-manifest.b9ce4a431e4dcb042b13c4c4210f544e.js",
+  "precache-manifest.ae89556f186b549adbdfba04325f0a18.js": "/portfolio-website/precache-manifest.ae89556f186b549adbdfba04325f0a18.js",
   "service-worker.js": "/portfolio-website/service-worker.js"
 }
