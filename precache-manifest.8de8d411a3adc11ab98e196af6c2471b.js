@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "448376090331e7a8a301",
-    "url": "/portfolio-website/static/css/main.999c9638.chunk.css"
+    "revision": "2d16ad7005799410a5fa",
+    "url": "/portfolio-website/static/css/main.fad87b09.chunk.css"
   },
   {
-    "revision": "448376090331e7a8a301",
-    "url": "/portfolio-website/static/js/main.44837609.chunk.js"
+    "revision": "2d16ad7005799410a5fa",
+    "url": "/portfolio-website/static/js/main.2d16ad70.chunk.js"
   },
   {
     "revision": "c38935ca6b4955760c25",
@@ -352,7 +352,7 @@ self.__precacheManifest = [
     "url": "/portfolio-website/static/media/wonde-danis.c83547f6.jpeg"
   },
   {
-    "revision": "9dd35f1d0cc0d5ab71ac191ecf24e380",
+    "revision": "5c407b9c589cc01b156d10c9b16bc7ad",
     "url": "/portfolio-website/index.html"
   }
 ];
