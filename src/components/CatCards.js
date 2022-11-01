@@ -43,9 +43,9 @@ function Cards() {
                     src={pepeWriting}
                     text="Writing"
                     label="Memes"
-                    path= "/Writing"
-
+                    path= '/Writing'
                     />
+                    
                     {/* <CardItem 
                     src={zip}
                     text="Zip Swap"

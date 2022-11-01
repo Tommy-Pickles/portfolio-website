@@ -5,6 +5,10 @@
     background-color: var(--clr-bg);
 }
 
+.h1{
+  font: 1000;
+}
+
 .body-container {
     display: flex;
     flex-flow: column;
@@ -17,4 +21,31 @@
   .body-wrapper {
     position: relative;
     margin: 70px 0 45px;
+  }
+
+  .body-text-1{
+    margin-bottom: 25px;
+    margin-top: 10px;
+    margin-left: 250px;
+    margin-right: 250px;
+    font-family: 'Franklin Gothic Medium', 'Arial ', Arial, sans-serif;
+  }
+
+
+  @media screen and (max-width: 960px) {
+  .body-text-1{
+    margin-bottom: 25px;
+    margin-top: 10px;
+    margin-left: 25px;
+    margin-right: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial ', Arial, sans-serif;
+  }}
+
+  .aboutMe-body{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
   }

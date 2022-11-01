@@ -25,7 +25,7 @@ function Footer() {
         <div className='social-media-wrap'>
           <div className='footer-logo'>
             <Link to="/AboutMe" className='social-logo'>
-              CC   <i class="fa-solid fa-user"></i>
+              <i class="fa-solid fa-user"></i>
             </Link>
           </div>
           <div className='social-icons'>
