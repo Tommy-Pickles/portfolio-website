@@ -75,7 +75,7 @@ function Tweets() {
                 <ul >
                     <Tweet1/> 
                      <Tweet3/>   
-                     <Tweet3/> 
+                     {/* <Tweet3/>  */}
                      <Tweet10/> 
                      <Tweet4/> 
                      <Tweet5/> 
