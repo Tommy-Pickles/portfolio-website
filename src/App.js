@@ -359,7 +359,7 @@ function App() {
       </Router>
       <Helmet>
                 <meta charSet="utf-8" />
-                <title>Portfolio</title>
+                <title>Prey's Portfolio</title>
                 <link rel="canonical" href="https://Tommy-Pickles.github.io/portfolio-website" />
                 <meta name="description" content="TEST TEST TEST" />
         </Helmet>
