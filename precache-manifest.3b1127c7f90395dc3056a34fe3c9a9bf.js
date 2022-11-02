@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "4373a7ebf651e8ddb11a",
-    "url": "/portfolio-website/static/css/main.2855909a.chunk.css"
+    "revision": "14f7256f16970477755c",
+    "url": "/portfolio-website/static/css/main.3f450094.chunk.css"
   },
   {
-    "revision": "4373a7ebf651e8ddb11a",
-    "url": "/portfolio-website/static/js/main.4373a7eb.chunk.js"
+    "revision": "14f7256f16970477755c",
+    "url": "/portfolio-website/static/js/main.14f7256f.chunk.js"
   },
   {
     "revision": "b60f8709a203154ae24b",
@@ -14,6 +14,10 @@ self.__precacheManifest = [
   {
     "revision": "2b256896c0c48cf1d86c",
     "url": "/portfolio-website/static/js/runtime~main.2b256896.js"
+  },
+  {
+    "revision": "1de1c60305b59245ba6827c7284efdec",
+    "url": "/portfolio-website/static/media/green-wojacks.1de1c603.jpeg"
   },
   {
     "revision": "ce256b1a3640c1b627fbd59f81846da5",
@@ -352,7 +356,7 @@ self.__precacheManifest = [
     "url": "/portfolio-website/static/media/wonde-danis.c83547f6.jpeg"
   },
   {
-    "revision": "6f72372bce62504cfdf6b4732f301623",
+    "revision": "c095661e02b5b51cdbdf83613653def5",
     "url": "/portfolio-website/index.html"
   }
 ];
