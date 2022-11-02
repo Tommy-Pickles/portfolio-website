@@ -9,7 +9,7 @@ export default function AboutMe(){
         <h1 className="AboutMe">About Me </h1>
         <div className="body-container">
             <div className="body-wrapper"> 
-            <h1>0xprey</h1>
+            {/* <h1>0xprey</h1> */}
             <h2 className="aboutMe-body">Yield farmer turned meme lord </h2>
             <p className="body-text-1">
             Known as Wonderland Intern from 2021-2022 (>1M impressions/month at peak), I made content for the greater Wonderland ecosystem (Frog Nation). Using the momentum that Dani/Sifu gathered with their emerging tokens, I established a large following via engaging and topical tweets.

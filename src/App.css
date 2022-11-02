@@ -29,7 +29,7 @@
 }
 
 .products {
-  background-image: url('/images/img-1.jpg');
+  background-image: url('./img/green-wojacks.jpeg');
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;
